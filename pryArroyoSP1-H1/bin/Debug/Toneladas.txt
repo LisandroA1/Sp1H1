@@ -1,0 +1,3 @@
+Rosario; Soja;500;lunes, 26 de septiembre de 2022
+ Cordoba; Cereales;700;lunes, 26 de septiembre de 2022
+ Buenos Aires; Cereales;6000;lunes, 26 de septiembre de 2022

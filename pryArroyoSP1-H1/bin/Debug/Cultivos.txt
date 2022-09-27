@@ -1,0 +1,4 @@
+001 Soja
+002 Cereales
+003 Maiz
+004 Poroto

@@ -1,0 +1,42 @@
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\bin\Debug\pryArroyoSP1-H1.exe.config
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\bin\Debug\pryArroyoSP1-H1.exe
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\bin\Debug\pryArroyoSP1-H1.pdb
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.csproj.AssemblyReference.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.frmCultivos.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.frmLocalidades.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.frmToneladas.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.Properties.Resources.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.frmSecretariaDeAgricultura.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.csproj.GenerateResource.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.csproj.CoreCompileInputs.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.exe
+C:\Users\Terminal\OneDrive\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.pdb
+D:\Escritorio\pryArroyoSP1-H1\bin\Debug\pryArroyoSP1-H1.exe.config
+D:\Escritorio\pryArroyoSP1-H1\bin\Debug\pryArroyoSP1-H1.exe
+D:\Escritorio\pryArroyoSP1-H1\bin\Debug\pryArroyoSP1-H1.pdb
+D:\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.csproj.AssemblyReference.cache
+D:\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.frmCultivos.resources
+D:\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.frmLocalidades.resources
+D:\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.frmToneladas.resources
+D:\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.Properties.Resources.resources
+D:\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.frmSecretariaDeAgricultura.resources
+D:\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.csproj.GenerateResource.cache
+D:\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.exe
+D:\Escritorio\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.pdb
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\bin\Debug\pryArroyoSP1-H1.exe.config
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\bin\Debug\pryArroyoSP1-H1.exe
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\bin\Debug\pryArroyoSP1-H1.pdb
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.csproj.AssemblyReference.cache
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.frmCultivos.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.frmLocalidades.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.frmToneladas.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.Properties.Resources.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.frmSecretariaDeAgricultura.resources
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.csproj.GenerateResource.cache
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.csproj.CoreCompileInputs.cache
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.exe
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1-H1.pdb
+C:\Users\Terminal\OneDrive\Escritorio\trabajos practicos a presentar en parcial\pryArroyoSP1-H1\obj\Debug\pryArroyoSP1_H1.frmConsultaProduccion.resources
